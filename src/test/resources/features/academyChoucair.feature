@@ -1,6 +1,6 @@
 # Autor: Angie Moreno
 
-@stories
+@tag1
 Feature: Academy Choucair
   As a user, I want to learn to automate in screamplay at the choucair Academy with the automation course
   @scenario1
